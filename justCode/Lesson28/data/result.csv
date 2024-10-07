@@ -1,0 +1,7 @@
+post_id,user_id,title,body,created_at,username,email,age,city
+1,1,First Post,This is the first post by user1.,2023-01-01 08:00:00,user1,user1@example.com,25,New York
+2,2,Second Post,This is the second post by user2.,2023-01-02 10:00:00,user2,user2@example.com,30,Los Angeles
+3,3,Third Post,This is the third post by user3.,2023-01-03 12:00:00,user3,user3@example.com,28,Chicago
+4,4,Fourth Post,This is the fourth post by user4.,2023-01-04 14:00:00,user4,user4@example.com,35,San Francisco
+5,5,Fifth Post,This is the fifth post by user5.,2023-01-05 16:00:00,user5,user5@example.com,22,Boston
+6,1,Sixth Post,This is the first post by user1.,2023-01-02 08:00:00,user1,user1@example.com,25,New York
